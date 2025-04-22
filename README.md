@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Alp</h1>
 
 <p align="center">
   🎓 Data Science & AI Graduate | 📊 Econometrics & Operations Research Master's Student <br>
