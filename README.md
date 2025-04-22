@@ -32,7 +32,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide=prs&count_private=true" alt="GitHub Stats" />
-</p>
-
